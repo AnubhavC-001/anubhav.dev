@@ -1,3 +1,7 @@
+#This program is programmed for players to play the famous game HANGMAN.
+
+
+
 from getpass import getpass
 choose_word=getpass("Enter any word to your liking challenger !")
 lives=len(choose_word)+2
